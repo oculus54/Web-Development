@@ -1,0 +1,64 @@
+.no {
+  background-image: url(new.png);
+  
+}
+.na {
+  text-align: center;
+  color:white;
+}
+.box {
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgb(0, 255, 140);
+  height: 150px;
+  width:550px;
+  margin:auto;
+  border-style: outset;
+  backdrop-filter: blur(1.0);
+}
+
+.box2 {
+    border-radius: 10px;
+  text-align: center;
+  background-color: rgb(0, 204, 255);
+  height: 180px;
+  width:570px;
+  margin:auto;
+  margin-top: 20px;
+  border-style: outset;
+  
+}
+
+.box3 {
+    border-radius: 10px;
+  text-align: center;
+  background-color: rgb(196, 79, 242);
+  height: 150px;
+  width:550px;
+  margin:auto;
+  border-style: outset;
+  margin-top: 20px;
+}
+
+.box4 {
+      border-radius: 10px;
+  text-align: center;
+  background-color: rgb(244, 222, 153);
+  height: 150px;
+  width:550px;
+  margin:auto;
+  border-style: outset;
+  margin-top: 20px;
+}
+
+.linked {
+  margin-top:20px;
+  margin-left: 80px;
+}
+
+.nj {
+  height:80px;
+  width:80px;
+  margin-top:20px;
+  margin-right: 120px;
+}
