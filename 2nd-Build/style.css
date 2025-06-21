@@ -1,0 +1,20 @@
+body {
+    background: url(bgw.jpg);
+    background-size: cover;
+}
+.Header {
+    text-align: center;
+    color:blueviolet;
+
+}
+.b1 {
+    background-color: beige;
+    width:280px;
+    height:80px;    
+    margin-left: 580px;
+    border-radius: 70px;
+    border-style: groove;
+    margin-top: 20px;
+    border-color: blueviolet red greenyellow indigo;
+    
+}

@@ -8,12 +8,13 @@
 }
 .box {
   border-radius: 10px;
+  border-color: red blueviolet yellow orchid;
   text-align: center;
   background-color: rgb(0, 255, 140);
   height: 150px;
   width:550px;
   margin:auto;
-  border-style: outset;
+  border-style:groove;
   backdrop-filter: blur(1.0);
 }
 
